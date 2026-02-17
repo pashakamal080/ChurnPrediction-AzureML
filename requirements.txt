@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+httpx
+pandas  # Only if you need to run the schema generator inside the container (optional)
+python-dotenv
